@@ -1,8 +1,8 @@
 ---
 title: "我的 2025 年度书单"
 date: 2025-11-20T00:00:00+08:00
-description: ""
-tags: []
+description: "年初定了12本的目标只读了8本。不过读书不该搞KPI，读进去的比读完的重要。"
+tags: [书单, 阅读, 年度总结]
 draft: false
 ---
 

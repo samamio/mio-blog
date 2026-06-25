@@ -1,8 +1,8 @@
 ---
 title: "产品的世界 —— 《inspired》读后感"
 date: 2022-02-08T00:00:00+08:00
-description: ""
-tags: []
+description: "读Marty Cagan的产品经典，重新理解产品经理这个角色的边界、责任和成长路径。"
+tags: [产品, 读后感, 方法论, 产品经理]
 draft: false
 ---
 > 世界就是所发生的一切东西，世界是事实的总和；我们为自己创造事实的形象。

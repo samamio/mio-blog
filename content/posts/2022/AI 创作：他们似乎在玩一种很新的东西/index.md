@@ -1,8 +1,8 @@
 ---
 title: "AI 创作：他们似乎在玩一种很新的东西"
 date: 2022-12-13T00:00:00+08:00
-description: ""
-tags: []
+description: "AI绘画和AI写作正在冲击创作者群体。是威胁还是工具？恐惧背后是身份的不安。"
+tags: [AI, 创作, 工具, 绘画, 写作]
 draft: false
 ---
 ![AI 补全的世界名画](https://pic1.imgdb.cn/item/6342954b16f2c2beb1a06f05.png "AI 扩展的世界名画")
