@@ -15,6 +15,7 @@ pagination:
 params:
   mode: auto
   useCDN: false
+  favicon: /favicon.png
   subtitle: 无远弗届
   mainSections:
     - posts
