@@ -1,7 +1,7 @@
 baseURL: https://samamio.github.io/mio-blog/
 languageCode: zh-cn
 defaultContentLanguage: zh-cn
-title: 我的个人博客
+title: 仿生产品经理会抽电子烟吗
 theme: archie
 copyright: © 2026
 
@@ -15,7 +15,7 @@ pagination:
 params:
   mode: auto
   useCDN: false
-  subtitle: 用 Obsidian 写作，用 Hugo 发布的个人博客。
+  subtitle: 无远弗届
   mainSections:
     - posts
 
