@@ -1,6 +1,6 @@
 ---
 title: "地震鲶妖怪考据及机制详解"
-date: 2023-01-01T00:00:00+08:00
+date: 2022-12-13T00:00:00+08:00
 description: ""
 tags: []
 draft: false

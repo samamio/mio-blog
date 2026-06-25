@@ -1,6 +1,6 @@
 ---
 title: "尽量晚一点独立思考"
-date: 2024-01-01T00:00:00+08:00
+date: 2024-07-06T00:00:00+08:00
 description: ""
 tags: []
 draft: false

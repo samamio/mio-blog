@@ -1,6 +1,6 @@
 ---
 title: "购车随笔"
-date: 2023-01-01T00:00:00+08:00
+date: 2023-03-04T00:00:00+08:00
 description: ""
 tags: []
 draft: false

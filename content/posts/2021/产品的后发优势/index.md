@@ -1,6 +1,6 @@
 ---
 title: "产品的后发优势"
-date: 2021-01-01T00:00:00+08:00
+date: 2022-02-08T00:00:00+08:00
 description: ""
 tags: []
 draft: false
