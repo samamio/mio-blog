@@ -1,6 +1,6 @@
 ---
 title: "AI 创作：他们似乎在玩一种很新的东西"
-date: 2022-06-09T00:00:00+08:00
+date: 2022-12-13T00:00:00+08:00
 description: ""
 tags: []
 draft: false

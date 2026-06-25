@@ -1,6 +1,6 @@
 ---
 title: "产品的世界 —— 《inspired》读后感"
-date: 2025-02-24T00:00:00+08:00
+date: 2022-02-08T00:00:00+08:00
 description: ""
 tags: []
 draft: false
