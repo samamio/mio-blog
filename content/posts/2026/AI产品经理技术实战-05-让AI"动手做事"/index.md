@@ -1,5 +1,5 @@
 ---
-title: "第5章 Function Calling——让AI"动手做事""
+title: "第5章 Function Calling——让AI\"动手做事\""
 date: 2026-06-08T00:00:00+08:00
 description: ""
 tags: [AI, 产品经理, 技术实战, 第5章]

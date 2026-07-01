@@ -1,5 +1,5 @@
 ---
-title: "第4章 让AI"说人话"——Prompt Engineering的方法论"
+title: "第4章 让AI\"说人话\"——Prompt Engineering的方法论"
 date: 2026-06-07T00:00:00+08:00
 description: ""
 tags: [AI, 产品经理, 技术实战, 第4章]
