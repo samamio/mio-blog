@@ -1,8 +1,8 @@
 ---
-title: "第5章 Function Calling——让AI\"动手做事\""
+title: "Function Calling——让AI\"动手做事\""
 date: 2026-06-08T00:00:00+08:00
-description: ""
-tags: [AI, 产品经理, 技术实战, 第5章]
+description: "第四章我们学会了如何'跟AI说人话'——写好Prompt，让模型输出高质量的答案。但有一个根本性的限制：**模型只能'说'，不能'做'。**"
+tags: [AI, Function Calling, 工具调用, API]
 draft: false
 ---
 

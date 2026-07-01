@@ -1,8 +1,8 @@
 ---
-title: "第9章 MCP——AI的标准化连接协议"
+title: "MCP——AI的标准化连接协议"
 date: 2026-06-18T00:00:00+08:00
-description: ""
-tags: [AI, 产品经理, 技术实战, 第9章]
+description: "前几章我们学了： - Function Calling：让模型调用工具 - RAG：让模型获取知识 - Agent：让模型自主规划 - LangGraph：构建有状态的Agent工作流"
+tags: [AI, MCP, 协议, 标准化, 连接]
 draft: false
 ---
 

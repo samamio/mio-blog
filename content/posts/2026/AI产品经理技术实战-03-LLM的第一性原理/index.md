@@ -1,8 +1,8 @@
 ---
-title: "第3章 大模型是什么——LLM的第一性原理"
+title: "大模型是什么——LLM的第一性原理"
 date: 2026-06-06T00:00:00+08:00
-description: ""
-tags: [AI, 产品经理, 技术实战, 第3章]
+description: "上一章我们判断了'客户工单系统适合用AI'，现在我们要回答一个更基础的问题：**这个AI，到底是怎么工作的？**"
+tags: [AI, 大模型, LLM, Transformer, Token]
 draft: false
 ---
 

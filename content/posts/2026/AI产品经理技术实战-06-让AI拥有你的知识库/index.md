@@ -1,8 +1,8 @@
 ---
-title: "第6章 RAG——让AI拥有你的知识库"
+title: "RAG——让AI拥有你的知识库"
 date: 2026-06-09T00:00:00+08:00
-description: ""
-tags: [AI, 产品经理, 技术实战, 第6章]
+description: "第五章我们让AI学会了'动手'——通过Function Calling调用外部工具。但还有一个根本问题：**AI的知识是有限的。**"
+tags: [AI, RAG, 检索增强生成, 知识库, 向量数据库]
 draft: false
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "第8章 LangGraph——构建有状态的Agent工作流"
+title: "LangGraph——构建有状态的Agent工作流"
 date: 2026-06-17T00:00:00+08:00
-description: ""
-tags: [AI, 产品经理, 技术实战, 第8章]
+description: "第七章我们学习了Agent的核心架构——ReAct、Plan-and-Solve、Reflection。但这些都是'概念'。在实际工程中，怎么构建一个复杂的、有状态的Agent工作流？"
+tags: [AI, LangGraph, 工作流, 状态管理, Agent]
 draft: false
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "第12章 企业级AI系统架构——从Demo到Production"
+title: "企业级AI系统架构——从Demo到Production"
 date: 2026-06-23T00:00:00+08:00
-description: ""
-tags: [AI, 产品经理, 技术实战, 第12章]
+description: "第十一章你学会了怎么写AI产品的PRD。但PRD写得再好，如果系统架构撑不住，上线就会出问题。"
+tags: [AI, 企业级, 系统架构, Production, 工程化]
 draft: false
 ---
 

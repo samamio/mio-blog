@@ -1,8 +1,8 @@
 ---
-title: "第7章 Agent架构——从ReAct到自主规划"
+title: "Agent架构——从ReAct到自主规划"
 date: 2026-06-13T00:00:00+08:00
-description: ""
-tags: [AI, 产品经理, 技术实战, 第7章]
+description: "前五章我们学了： - 第3章：大模型是什么（技术底座） - 第4章：Prompt Engineering（引导模型） - 第5章：Function Calling（让模型动手） - 第6章：RAG（让模型有知识）"
+tags: [AI, Agent, ReAct, 自主规划, 智能体]
 draft: false
 ---
 

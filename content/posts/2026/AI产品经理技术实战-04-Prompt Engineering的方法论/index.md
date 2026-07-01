@@ -1,8 +1,8 @@
 ---
-title: "第4章 让AI\"说人话\"——Prompt Engineering的方法论"
+title: "让AI\"说人话\"——Prompt Engineering的方法论"
 date: 2026-06-07T00:00:00+08:00
-description: ""
-tags: [AI, 产品经理, 技术实战, 第4章]
+description: "上一章我们理解了大模型的核心原理，知道了一个模型就像'读过互联网的超级读者'。但有一个关键问题：**你怎么告诉这个'超级读者'具体要做什么？**"
+tags: [AI, Prompt, 提示词工程, 用户交互]
 draft: false
 ---
 

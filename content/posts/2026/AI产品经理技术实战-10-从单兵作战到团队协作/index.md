@@ -1,8 +1,8 @@
 ---
-title: "第10章 多Agent系统——从单兵作战到团队协作"
+title: "多Agent系统——从单兵作战到团队协作"
 date: 2026-06-20T00:00:00+08:00
-description: ""
-tags: [AI, 产品经理, 技术实战, 第10章]
+description: "第九到十章我们已经学了MCP标准化连接协议。但即使有了标准化协议，**一个Agent能做的事情仍然是有限的。**"
+tags: [AI, 多Agent, 协作, 团队, 分布式]
 draft: false
 ---
 
