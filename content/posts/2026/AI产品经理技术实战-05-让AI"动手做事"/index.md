@@ -6,11 +6,6 @@ tags: [AI, Function Calling, 工具调用, API]
 draft: false
 ---
 
-# 第5章 Function Calling——让AI"动手做事"
-
-
----
-
 ## 一、背景：从"聊天"到"做事"的跨越
 
 ### 1.1 大模型的"先天不足"

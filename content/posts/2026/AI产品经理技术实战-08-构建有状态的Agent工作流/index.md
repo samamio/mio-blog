@@ -6,11 +6,6 @@ tags: [AI, LangGraph, 工作流, 状态管理, Agent]
 draft: false
 ---
 
-# 第8章 LangGraph——构建有状态的Agent工作流
-
-
----
-
 ## 一、背景：为什么需要LangGraph？
 
 ### 1.1 线性流程的局限

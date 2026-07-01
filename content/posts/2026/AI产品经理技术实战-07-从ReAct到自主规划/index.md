@@ -6,11 +6,6 @@ tags: [AI, Agent, ReAct, 自主规划, 智能体]
 draft: false
 ---
 
-# 第7章 Agent架构——从ReAct到自主规划
-
-
----
-
 ## 一、背景：从"工具"到"助手"
 
 ### 1.1 什么是Agent？

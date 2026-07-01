@@ -6,11 +6,6 @@ tags: [AI, 企业级, 系统架构, Production, 工程化]
 draft: false
 ---
 
-# 第12章 企业级AI系统架构——从Demo到Production
-
-
----
-
 ## 一、背景：Demo和Production的区别
 
 ### 1.1 Demo环境 vs Production环境

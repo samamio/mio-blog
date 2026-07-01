@@ -6,11 +6,6 @@ tags: [AI, Prompt, 提示词工程, 用户交互]
 draft: false
 ---
 
-# 第4章 让AI"说人话"——Prompt Engineering的方法论
-
-
----
-
 ## 一、背景：为什么Prompt是一门"工程"？
 
 ### 1.1 一个常见的误解
