@@ -1,7 +1,7 @@
 ---
 title: "MCP——AI的标准化连接协议"
 date: 2026-06-18T00:00:00+08:00
-description: "前几章我们学了： - Function Calling：让模型调用工具 - RAG：让模型获取知识 - Agent：让模型自主规划 - LangGraph：构建有状态的Agent工作流"
+description: "MCP让不同AI工具之间能互相通信。理解这个协议，是构建可扩展AI系统的基础。"
 tags: [AI, MCP, 协议, 标准化, 连接]
 draft: false
 ---

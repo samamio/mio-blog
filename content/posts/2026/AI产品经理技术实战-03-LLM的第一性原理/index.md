@@ -1,7 +1,7 @@
 ---
 title: "大模型是什么——LLM的第一性原理"
 date: 2026-06-06T00:00:00+08:00
-description: "上一章我们判断了'客户工单系统适合用AI'，现在我们要回答一个更基础的问题：**这个AI，到底是怎么工作的？**"
+description: "用产品经理能听懂的语言讲清楚大模型的底层逻辑——Transformer、Token、Embedding到底是什么。"
 tags: [AI, 大模型, LLM, Transformer, Token]
 draft: false
 ---

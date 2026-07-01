@@ -1,7 +1,7 @@
 ---
 title: "从0到1——设计你的第一个AI Agent产品"
 date: 2026-06-25T00:00:00+08:00
-description: "前13章我们系统学习了AI产品经理需要掌握的全部知识。现在，让我们把它们全部用起来。"
+description: "从选题、PRD、技术选型到上线计划，走完一个完整AI Agent产品的设计全流程。"
 tags: [AI, Agent, 产品设计, 从0到1, 实战]
 draft: false
 ---

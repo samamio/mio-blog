@@ -1,7 +1,7 @@
 ---
 title: "Agent架构——从ReAct到自主规划"
 date: 2026-06-13T00:00:00+08:00
-description: "前五章我们学了： - 第3章：大模型是什么（技术底座） - 第4章：Prompt Engineering（引导模型） - 第5章：Function Calling（让模型动手） - 第6章：RAG（让模型有知识）"
+description: "Agent（智能体）是AI产品经理的必修课。理解ReAct、Plan-and-Solve等核心架构的运作逻辑。"
 tags: [AI, Agent, ReAct, 自主规划, 智能体]
 draft: false
 ---
