@@ -8,22 +8,6 @@ draft: false
 
 # 第8章 LangGraph——构建有状态的Agent工作流
 
-## 本章目标
-
-第七章我们学习了Agent的核心架构——ReAct、Plan-and-Solve、Reflection。但这些都是"概念"。在实际工程中，怎么构建一个复杂的、有状态的Agent工作流？
-
-答案就是**LangGraph**。
-
-LangGraph是LangChain推出的一个框架，专门用于构建基于LLM的有状态、多步应用。它用"图"的方式来描述Agent的工作流，让复杂的Agent逻辑变得可视化和可管理。
-
-学习完本章后，你将能够：
-
-1. **理解为什么需要图结构**——线性流程无法表达的分支、循环和记忆
-2. **掌握LangGraph的核心概念**——State、Node、Edge、Checkpointer
-3. **设计人机协同的Agent工作流**——关键步骤主动请求人类审批
-4. **处理循环和条件分支**——异常路径和兜底逻辑
-5. **理解Agent的可视化调试**——在Graph层面看到Agent的思考路径
-6. **将客户工单系统迁移到LangGraph架构**
 
 ---
 
